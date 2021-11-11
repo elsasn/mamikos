@@ -1,0 +1,28 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+driver = webdriver.Firefox(executable_path="/Users/user/Downloads/geckodriver")
+
+print("Akses URL")
+driver.get("https://mamikos.com/")
+print(driver.title)
+print("Login Page")
+print(driver.current_url)
+button = driver.find_element(By.XPATH, "//button[@class='nav-login-button']")
+button.click()
+print("Login Pencari Kos")
+print(driver.current_url)
+linkElem = driver.find_element(By.XPATH, '//img[@alt="login-tenant"]')
+linkElem.click()
+print("Login - Input Nomor HP dan Password")
+print(driver.current_url)
+get_username = driver.find_element(By.XPATH, '//input[@type="tel"]')
+get_username.send_keys("083159526508")
+get_password = driver.find_element(By.XPATH, '//input[@type="password"]')
+get_password.send_keys("Password123")
+submit = driver.find_element(By.XPATH, '//button[@class="btn btn-primary btn-mamigreen login-button track-login-tenant"]')
+submit.click()
+print("Cari Kos")
+a = driver.find_element(By.XPATH, "//div[@class='btn-cta-search']").click()
+a.send_keys("Kost Agen Duo Tenant Pesanggaran Banyuwangi 493726AD")
+driver.find_element(By.XPATH, "//button[@class='btn-cta-search-label']").click()
