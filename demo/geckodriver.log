@@ -582,3 +582,186 @@ JavaScript error: , line 0: uncaught exception: false
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1636683120076	geckodriver	INFO	Listening on 127.0.0.1:55095
+1636683120186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55096" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilecNbm1q"
+1636683120925	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilecNbm1q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55096/devtools/browser/a7a7a735-a1a3-574a-8302-91f501ff714c
+1636683122277	Marionette	INFO	Listening on port 55101
+1636683122389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636683196891	geckodriver	INFO	Listening on 127.0.0.1:55311
+1636683197409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55312" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilezTsiDG"
+1636683197948	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilezTsiDG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55312/devtools/browser/5ce3d992-f857-6a46-a4b9-22bc0be28de5
+1636683199064	Marionette	INFO	Listening on port 55317
+1636683199102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+JavaScript error: ./workbox-173e8a79.js, line 1: TypeError: Cache.put: Invalid Response object with a 'Vary: *' header.
+1636683419953	Marionette	INFO	Stopped listening on port 55101
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636683423517	Marionette	INFO	Stopped listening on port 55317
+1636683487493	geckodriver	INFO	Listening on 127.0.0.1:55771
+1636683488086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55772" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilequQNlT"
+1636683488519	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilequQNlT/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:55772/devtools/browser/a582bbde-9d28-8242-8529-b88e9fd49ffc
+1636683489498	Marionette	INFO	Listening on port 55777
+1636683489566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636684331723	Marionette	INFO	Stopped listening on port 55777
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636686675375	geckodriver	INFO	Listening on 127.0.0.1:60976
+1636686675943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60977" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilevkoyMT"
+1636686676707	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilevkoyMT/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:60977/devtools/browser/6e2df173-c7bf-984d-bbaf-230a0461ff3c
+1636686677893	Marionette	INFO	Listening on port 60982
+1636686677933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636687100736	Marionette	INFO	Stopped listening on port 60982
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636690619594	geckodriver	INFO	Listening on 127.0.0.1:65508
+1636690620192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65509" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofile0W8W5d"
+1636690620873	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofile0W8W5d/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65509/devtools/browser/fa8133fd-d65f-214d-9d85-96e625b862e1
+1636690622217	Marionette	INFO	Listening on port 65524
+1636690622284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: false
+1636691061676	Marionette	INFO	Stopped listening on port 65524
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636691074930	geckodriver	INFO	Listening on 127.0.0.1:49946
+1636691075452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49947" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofileM81L8l"
+1636691076122	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofileM81L8l/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:49947/devtools/browser/d1ecf5bc-94fc-b44b-a4ec-a9d00ca7ff5b
+1636691077288	Marionette	INFO	Listening on port 49952
+1636691077335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636691109920	Marionette	INFO	Stopped listening on port 49952
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636691177870	geckodriver	INFO	Listening on 127.0.0.1:50211
+1636691178383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50212" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofileyiKErx"
+1636691178888	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofileyiKErx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50212/devtools/browser/0dc641ea-6db6-7843-b9b9-0ba9e74901fd
+1636691180294	Marionette	INFO	Listening on port 50217
+1636691180366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: false
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-asset.mamikos.com/dist/css/app.css?id=558d243d56ec75af2e5c without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-asset.mamikos.com/dist/css/bangul.css?id=5b99a949a0167c39b9ab without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-asset.mamikos.com/dist/css/app.css?id=558d243d56ec75af2e5c without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-asset.mamikos.com/dist/css/bangul.css?id=5b99a949a0167c39b9ab without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-asset.mamikos.com/dist/css/app.css?id=558d243d56ec75af2e5c without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-asset.mamikos.com/dist/css/bangul.css?id=5b99a949a0167c39b9ab without a browsingContextID set
+1636691398502	geckodriver	INFO	Listening on 127.0.0.1:50676
+1636691399022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50677" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilenNIlKU"
+1636691399601	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofilenNIlKU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50677/devtools/browser/012a4420-6e11-2344-86a1-19f0c647737d
+1636691400696	Marionette	INFO	Listening on port 50682
+1636691400801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: false
+1636691487348	geckodriver	INFO	Listening on 127.0.0.1:50978
+1636691487871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50979" "-foreground" "-no-remote" "-profile" "/var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofile4RbATu"
+1636691488209	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/py/4d3y8qfd0rg6_v8krt1dlbdr0000gn/T/rust_mozprofile4RbATu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50979/devtools/browser/14248e00-68e4-c545-9141-6d2e86ff448e
+1636691489134	Marionette	INFO	Listening on port 50988
+1636691489236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636691807320	Marionette	INFO	Stopped listening on port 50217
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636691812479	Marionette	INFO	Stopped listening on port 50682
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636691814332	Marionette	INFO	Stopped listening on port 50988
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
