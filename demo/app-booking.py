@@ -7,6 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from time import sleep
 
+import HTMLReport
+
 driver = webdriver.Firefox(executable_path="/Users/user/Downloads/geckodriver")
 
 print("Akses URL")
@@ -27,7 +29,7 @@ get_password.send_keys("Password123")
 submit = driver.find_element(By.XPATH, '//button[@class="btn btn-primary btn-mamigreen login-button track-login-tenant"]')
 submit.click()
 sleep(3)
-#WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.XPATH, '//span[@class="cell day"]'))).click()
+print("Booking Process")
 driver.find_element(By.XPATH, "//input[@class='booking-input-checkin__input']").click()
 sleep(3)
 driver.find_element(By.XPATH, "//span[@class='cell day']").click()
@@ -36,7 +38,10 @@ driver.find_element(By.XPATH, "//div[@role='radiobutton']").click()
 sleep(3)
 driver.find_element(By.XPATH, "//button[@class='mami-button booking-card__booking-action track_request_booking mami-button--primary mami-button--large mami-button--block']").click()
 sleep(3)
-driver.find_element(By.XPATH, "//span[@class'bg-c-checkbox__icon']").click()
+driver.find_element(By.CSS_SELECTOR, ".bg-c-checkbox__icon").click()
 sleep(3)
 driver.find_element(By.XPATH, "//button[@class='bg-c-button bg-c-button--primary bg-c-button--lg bg-c-button--block']").click()
 #driver.implicitly_wait(5)
+if __name__ == "__main__":
+    HTMLReport.main()
+
