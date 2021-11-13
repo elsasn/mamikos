@@ -808,3 +808,7 @@ DevTools listening on ws://localhost:57057/devtools/browser/26a98582-435b-974e-a
 1636706054641	Marionette	INFO	Listening on port 57062
 1636706054753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: false
+1636706155541	Marionette	INFO	Stopped listening on port 57062
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
